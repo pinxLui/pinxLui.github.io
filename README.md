@@ -1,5 +1,5 @@
 # pinxLui.github.io
-This is a Marie Jamine Mendoza personal portfolio containing her works and background.
+This is Marie Jamine Mendoza personal portfolio containing her works and background.
 
 * Responsive
 
