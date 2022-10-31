@@ -5,3 +5,4 @@ This is Marie Jamine Mendoza personal portfolio containing her works and backgro
 
 ### System Requirements
 * [Beak](https://beakit.com)
+<img src="https://bkit.co/w_635fe35c13fb9.gif" />
