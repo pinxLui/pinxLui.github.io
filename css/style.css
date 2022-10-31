@@ -129,11 +129,13 @@ p {
 
 .hero_section .row button {
     border-radius: 10px;
-    font-size: 19px;
+    font-size: 14px;
     color: #fff;
     background-color: var(--pink-color);
     border: 3px solid var(--pink-color);
-    width: 123px;
+    width: 170px;
+    font-weight: 500;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     margin-top: 10px;
 }
 
@@ -258,6 +260,8 @@ p {
     background-color: var(--pink-color);
     border: var(--pink-color);
     margin-top: 10px;
+    font-weight: 500;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 .about_section .about_me_right_section button:hover {
