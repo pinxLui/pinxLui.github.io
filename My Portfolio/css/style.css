@@ -533,7 +533,7 @@ section .section-title {
 
 #footer a {
     color: #ffffff;
-    text-decoration: none !important;
+    text-decoration: none;
     background-color: transparent;
     -webkit-text-decoration-skip: objects;
 }
